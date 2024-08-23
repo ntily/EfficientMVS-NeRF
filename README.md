@@ -12,7 +12,6 @@ This repository introduces an approach to improve the efficiency of unsupervised
 
 Our method combines the strengths of multi-view stereo and neural rendering using a unified cost volume. This shared representation allows for efficient and accurate depth estimation and novel view synthesis. 
 
-**[Insert a figure illustrating your pipeline (similar to Figure 3-1 in your thesis)]**
 
 ## Getting Started
 
